@@ -1,10 +1,10 @@
 # GoogleTest Basic Example
 ## Files:
-main.hpp
-main.cpp 
-CMakeLists.txt
-test/test.cpp 
-test/CMakeLists.txt 
++ main.hpp
++ main.cpp 
++ CMakeLists.txt
++ test/test.cpp 
++ test/CMakeLists.txt 
 
 ## Build
 ```
